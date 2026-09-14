@@ -1,0 +1,6 @@
+{
+  "name": "Coaching Classes | Basaw, Bithhi & Mustafabad",
+  "description": "Professional coaching classes for students from Class 8th to 12th in Basaw, Bithhi and Mustafabad. Concept-based teaching and exam preparation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
